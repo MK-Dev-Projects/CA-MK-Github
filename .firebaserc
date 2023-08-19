@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "mkp-portfolio-db"
+    "default": "mk-db-firebase"
   }
 }
