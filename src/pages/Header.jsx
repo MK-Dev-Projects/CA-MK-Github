@@ -6,7 +6,7 @@ const Header = () => {
     <div className={styles.header} id="home">
       <div className={styles.intro}>
         <div className={styles.heading}>Manthan-MK</div>
-        <div className={styles.ca}>MK-MK</div>
+        <div className={styles.ca}>Manthan-MK</div>
         <div className={styles.para}>
           <span className={styles.paratext}>
             Come join us to experience this spectacular cultural festival of
